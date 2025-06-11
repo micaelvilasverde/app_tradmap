@@ -15,7 +15,7 @@ Docker:
 Arquivo do docker compose para subir o broker Kafka
 Arquivo do docker compose para subir o Postgres
 Arquivo do docker compose para subir a API em Flask
-Aplicativo Android do Projeto: https://github.com/joaooab/tradeMapCloneMentoriaDIO-Android
+
 
 Arquitetura do Projeto  
 ![arquitetura-projeto](https://github.com/user-attachments/assets/ed216b17-be62-4faf-8b10-87cf16c1ce15)
